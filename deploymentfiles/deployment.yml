@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image:  nithin:5
+        image:  nithin:8
         ports:
         - containerPort: 8080
 
